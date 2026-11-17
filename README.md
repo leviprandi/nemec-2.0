@@ -69,7 +69,7 @@ docs/           documentação (arquitetura, instalação, demonstração, teste
 
 ## Licenças
 
-**Código do Nemec:** MIT ([`LICENSE`](LICENSE); o nome do titular precisa ser preenchido pelo autor).
+**Código do Nemec:** MIT ([`LICENSE`](LICENSE); Levi Prandi de Oliveira).
 
 | Componente | Licença | Observação |
 |---|---|---|
