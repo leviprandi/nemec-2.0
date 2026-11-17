@@ -16,5 +16,7 @@ O Nemec é um aplicativo **local de usuário único**. Este resumo descreve o qu
 - Apagamento forense: exclusão remove registros, mas o PostgreSQL pode reter páginas/WAL até o vacuum.
 - Proteção contra um usuário local malicioso com acesso ao Docker ou ao `.env`.
 
-## Reportar problemas
-Abra uma *issue* privada (ou contate o autor) com passos de reprodução. Não inclua dados pessoais nem o conteúdo do seu `.env`.
+## Reportar vulnerabilidades
+- Para reportar uma vulnerabilidade de segurança, utilize [Report a vulnerability](https://github.com/leviprandi/nemec-2.0/security/advisories/new).
+- Os relatos são privados e permitem discutir possíveis vulnerabilidades antes de sua divulgação pública.
+- Não inclua dados pessoais, credenciais ou arquivos `.env`.
