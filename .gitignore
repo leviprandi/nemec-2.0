@@ -1,0 +1,30 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Segredos e configuração local (só .env.example é público)
+.env
+.env.*
+!.env.example
+
+# Dados locais: nunca versionar bancos, dumps, logs ou documentos importados
+*.dump
+*.sql.gz
+*.sqlite*
+*.log
+pgdata/
+
+# Snapshots e saídas temporárias de verificação
+nemec2-snapshots/
+*.tar.gz
+
+# Dados gerados da demonstração
+demo-data/
+demo-output/
