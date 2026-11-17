@@ -69,7 +69,7 @@ docs/           documentação (arquitetura, instalação, demonstração, teste
 
 ## Licenças
 
-**Código do Nemec:** licenciado sob MIT. Consulte o arquivo LICENSE..
+**Código do Nemec:** MIT ([`LICENSE`](LICENSE); o nome do titular precisa ser preenchido pelo autor).
 
 | Componente | Licença | Observação |
 |---|---|---|
