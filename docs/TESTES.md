@@ -38,6 +38,5 @@ Os testes com `real_ollama` exigem os dois modelos instalados e dependem do comp
 | Inicialização offscreen com configuração válida | Instalação | Aprovada |
 | Falhas legíveis: sem `.env`, Ollama remoto, banco parado, banco sem migrar, modelo ausente, Ollama fora | Instalação (`make doctor` e `app.main` com `QMessageBox` interceptado) | Aprovadas |
 | Regressão final no repositório de trabalho | Automatizado | Mesma contagem (305) |
-| Demonstração roteirizada na interface real | Manual | **Não executada pelo desenvolvedor**; roteiro em [`DEMONSTRACAO.md`](DEMONSTRACAO.md) |
 
 **Não verificado:** instalação em outra máquina ou em Linux; CI; qualidade das respostas do modelo (não há avaliação de qualidade); auditoria independente do snapshot final da M2 e desta versão (a M2 teve uma auditoria independente em rodadas anteriores, cujos achados A01–A06 viraram `test_audit_m2.py`; as correções posteriores e a M3 não foram reauditadas) (os 305 testes são execução do próprio desenvolvedor).
