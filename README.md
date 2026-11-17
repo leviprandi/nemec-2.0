@@ -48,7 +48,7 @@ O LLM recebe **apenas texto** e o esquema de **duas ferramentas** (`save_memory`
 | [`docs/ARQUITETURA.md`](docs/ARQUITETURA.md) | Camadas, Ollama, RAG híbrido, memória, confirmação, fontes não confiáveis |
 | [`docs/INSTALACAO.md`](docs/INSTALACAO.md) | Requisitos, passo a passo, `.env`, papéis do banco, falhas comuns |
 | [`docs/DEMONSTRACAO.md`](docs/DEMONSTRACAO.md) | Roteiro de 10 passos com dados fictícios |
-| [`docs/TESTES.md`](docs/TESTES.md) | O que a suíte cobre e o que foi (e não foi) verificado |
+| [`docs/TESTES.md`](docs/TESTES.md) | Cobertura da suíte automatizada, testes de integração e evidências técnicas |
 | [`docs/LIMITACOES.md`](docs/LIMITACOES.md) | Limitações conhecidas |
 | [`docs/MVP_SPEC.md`](docs/MVP_SPEC.md) | Contrato técnico: tabelas e garantias G1–G9 |
 | [`SECURITY.md`](SECURITY.md) | Modelo de ameaças resumido e como reportar problemas |
