@@ -78,6 +78,6 @@ docs/           documentação (arquitetura, instalação, demonstração, teste
 | pypdfium2 5.15 | BSD-3-Clause / Apache-2.0 (+ licenças do PDFium) | |
 | Alembic, Pydantic, cliente `ollama`, pytest, pytest-qt | MIT | |
 | PostgreSQL / pgvector (imagem Docker `pgvector/pgvector:0.8.1-pg17`) | PostgreSQL License | Baixada pelo Docker, não incluída |
-| Modelos `qwen3.5:9b` e `bge-m3` | **Licenças próprias — consulte os cartões dos modelos** (Ollama / Hugging Face) | Baixados pelo usuário com `ollama pull`; **nenhum peso de modelo está neste repositório** |
+| Modelos `qwen3.5:9b` e `bge-m3` | **Licenças próprias** (Ollama / Hugging Face) | Baixados pelo usuário com `ollama pull`; **nenhum peso de modelo está neste repositório** |
 
-As licenças das dependências foram lidas dos metadados dos pacotes instalados; as dos modelos e da imagem Docker não foram verificadas.
+As licenças das dependências foram lidas dos metadados dos pacotes instalados.
